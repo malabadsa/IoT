@@ -11,8 +11,13 @@ IoT devices have added values to people’s life where it allowed them to manage
 # IoT LAbs
 The folder has 6 lab tutorials based on Arduino. The subjects of the tutorial labs are:
 Laboratory 1: Introduction to the ESP8266, the Aston IoT hardware platform and the Arduino environment.
+
 Laboratory 2: Connecting to a WiFi access point and communication via UDP.
+
 Laboratory 3: Radio Frequency Identification (RFID) and software scheduling.
+
 Laboratory 4: The Secure HyperText Transfer Protocol (HTTPS).
+
 Laboratory 5: MQTT.
+
 Laboratory 6: RF channel measurement and using NTP servers.
