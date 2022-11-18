@@ -10,7 +10,7 @@ IoT devices have added values to people’s life where it allowed them to manage
 
 
 ## IoT LAb tutorials
-The folder has 6 lab tutorials based on Arduino. The subjects of the tutorial labs are:
+The folder has 6 lab tutorials based on Arduino. Each lab folder has a pdf file which contains the tasks, the subjects of the tutorial labs are:
 
 Laboratory 1: Introduction to the ESP8266, the Aston IoT hardware platform and the Arduino environment.
 
